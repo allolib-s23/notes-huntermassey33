@@ -26,3 +26,8 @@
 *	Link to repo: https://github.com/allolib-s23/demo1-huntermassey33
 *	To play, run ./run.sh tutorials/synthesis/1979_v2.cpp and press ‘A’
 *	To improve my previous rendition, I added the second part of the verse with bass, the chorus, and the bridge. In addition, I changed some of the guitar parts to use the chorus effect, and updated other parts to have a slightly improved clean guitar sound. I also played around with the dynamics of the song by experimenting with changing amplitudes. This is also the first time I added visuals for the non-string instruments, which are very simple but weren’t the main focus.		
+### 6. Under the Bridge
+* This is a transcription of Under the Bridge by the Red Hot Chili Peppers.
+*	Link to repo: https://github.com/allolib-s23/demo1-huntermassey33
+*	To play, run ./run.sh tutorials/synthesis/UnderTheBridge.cpp and press ‘A’
+* For my final presentation, I decided to do a simple transcription of one of my favorite songs to play on guitar. It is the first time I've used purely FM synthesis instead of Karplus-Strong for my main guitar sound. Again, I decided to focus on the sound rather than graphics. While the FM instrument doesn't quite sound like an electric guitar, I think it suits the song really well. Also, experimenting with note durations with the FM sound gave a bit more emphasis to the places where bends, slides and hammer-ons are present in the original.
